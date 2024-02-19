@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      info: ['Karina','20961','5A']
+      info: ['Cruz Acevedo','20960','5A']
     }
   }
 }
